@@ -1,4 +1,4 @@
 FROM openjdk:latest
-COPY ./target/classes/com /tmp/com
+COPY ./target/wai-0.1.0.1-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "com.napier.wai.App"]
+ENTRYPOINT ["java", "-jar", "wai-0.1.0.1-jar-with-dependencies.jar"]
