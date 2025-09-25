@@ -7,3 +7,6 @@ Hiiiiii
 [![LICENSE](https://img.shields.io/github/license/40794441WaiThetPaing/wai.svg?style=flat-square)](https://github.com/40794441WaiThetPaing/wai/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/40794441WaiThetPaing/wai/all.svg?style=flat-square)](https://github.com/40794441WaiThetPaing/wai/releases)
+
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40794441WaiThetPaing/wai/main.yml?branch=develop)
