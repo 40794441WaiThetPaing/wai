@@ -7,7 +7,7 @@
 
     <groupId>com.napier.wai</groupId>
     <artifactId>wai</artifactId>
-    <version>0.1.0.3</version>
+    <version>0.1.0.4</version>
 
 
     <dependencies>
